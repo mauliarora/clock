@@ -15,6 +15,7 @@ It displays the current time in real-time and updates every second.
 * HTML
 * CSS
 * JavaScript
+
 ▶️ How to Run
 
 1. Download or clone the repository
